@@ -1,0 +1,36 @@
+.game {
+  text-align: left;
+}
+
+.status {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.character {
+  margin-bottom: 10px;
+}
+
+.character-name {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.points {
+  display: flex; 
+  margin-bottom: 20px;
+}
+
+.point-block {
+  width: 30px;
+  height: 10px;
+  background-color: green;
+  margin: 2px;
+  border: 1px solid black;
+}
+
+.button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
